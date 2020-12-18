@@ -1,0 +1,8 @@
+h1 {
+    text-align: center; 
+    border-style: inset;
+    padding: 10px;
+    display: flex;  
+    margin: auto;
+    width: 75%;      
+}
